@@ -3,7 +3,7 @@
  - author : Linmalu(린마루)
  - HomePage : http://blog.linmalu.com/
  - Spigot : spigot-api-1.8.8-R0.1
- - Version : 1.05
+ - Version : 1.34
 
 ###소개
 - 미니게임천국 플러그인은 여러 미니게임들을 즐길 수 있는 플러그인입니다.
