@@ -1,6 +1,6 @@
 # LinmaluMiniGames
 
- - author : Linmalu(린마루)
+ - author : 린마루(Linmalu)
  - HomePage : http://blog.linmalu.com/
  - Language : JAVA
  - Spigot : spigot-api-1.8.8-R0.1
@@ -23,6 +23,3 @@
 - 플러그인은 출처와 제작자를 남기는 한에서 배포를 허용합니다.
 - 플러그인을 무단 배포시 불이익을 받으실 수 있습니다.
 - 제작자가 아닌 다른 사람이 올린 파일로 인해 피해를 입었을 경우에는 책임지지 않습니다.
-- 무결성 검사는 파일이 변조되었는지 확인할 수 있습니다.
-- 무결성 검사 : http://onlinemd5.com/
-- MD5 Hash : ec06319866a4918f80e443df6b92f183 / EC06319866A4918F80E443DF6B92F183
