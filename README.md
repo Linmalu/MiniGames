@@ -7,7 +7,7 @@
  - Version : 1.34
 
 ###Update
-- ChangeName : LinmaluMiniGames
+- ChangeName : MiniGames -> LinmaluMiniGames
 
 ###소개
 - 미니게임천국 플러그인은 여러 미니게임들을 즐길 수 있는 플러그인입니다.
